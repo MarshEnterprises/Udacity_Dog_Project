@@ -17,7 +17,8 @@ This project uses pre-trained models from amazom (`VGG16Data` and `Resnet50`) an
 
 # Setting up environment and downloading training data
 
-The best way to 
+The best way to set up the project environment is to: 
+
 1. Clone the repository and navigate to the downloaded folder.
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place its contents in the repo, at location `./dogImages` (where `.` is your project workspace, probably "dog-project"). 
