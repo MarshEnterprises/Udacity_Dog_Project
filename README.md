@@ -34,4 +34,4 @@ The best way to set up the project environment is to:
 7. Activate your environment `conda activate dog-project`.
 
 # Running the breed identifier
-A prerequisite for this project is to evaluate the CNN, Which was done in a jupyter notebook. For simplicity, the web app is run directly from the jupyter notebook. In order to train a CNN and run the web app, run the jupyter notebook `dog_app.ipynb` (install jupyter if required). The last cell of the notebook will have a link to the web app.
+For simplicity, the web app is run directly from the jupyter notebook. In order to train a CNN and run the web app, run the jupyter notebook `dog_app.ipynb` (install jupyter if required). The last cell of the notebook will have a link to the web app.
